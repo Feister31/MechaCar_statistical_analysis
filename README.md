@@ -22,4 +22,4 @@
 ## Study Design: MechaCar vs Competition.
 * Using metrics like vehicle length-weight, AWD, and spoiler angle horsepower are all good metrics to use when conducting a statistical study that can quantify how a prototype car would work in the real world.
 * The null hypothesis would be whether the MechaCar will outperform today's top competitor and the alternative hypothesis can be that are the metrics in the mechaCar the result of why it is no competition to the top cars.
-* Using linear regression to predict the value of a variable based on the value can be beneficial to any company that is trying to devise plans to predict future trends while using current data points. detections
+* Using linear regression to predict the value of a variable based on the value can be beneficial to any company that is trying to devise plans to predict future trends while using current data points.
